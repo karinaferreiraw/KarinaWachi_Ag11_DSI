@@ -4,7 +4,7 @@
 **A  mensagem será exibida de acordo com o atual Nível de água disponível no reservatório, sendo:**  
 <br>
 <pre>
-**Nível do Reservatório**                     **Mensagem**  
+ Nível do Reservatório                       Mensagem
  Nível 1                                    🔴 Muito baixo (crítico)  
  Nível 2                                    🟡 Baixo  
  Nível 3                                    🟣 Médio  
