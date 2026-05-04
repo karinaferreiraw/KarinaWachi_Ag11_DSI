@@ -11,7 +11,7 @@ elif nivel_de_agua == 2:
     print(Style.RESET_ALL)
 
 elif nivel_de_agua == 3:
-    print(Fore.CYAN + "Nível de Água MÉDIO.")
+    print(Fore.MAGENTA + "Nível de Água MÉDIO.")
     print(Style.RESET_ALL)
 
 elif nivel_de_agua == 4:
